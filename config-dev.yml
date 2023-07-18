@@ -1,6 +1,6 @@
 spring:
-  erfhj
+  erfhj1
 version:
-  1
+  12
 config: 
-  info: version-123
+  info: version-1234
