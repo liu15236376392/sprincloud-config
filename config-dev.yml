@@ -2,3 +2,6 @@ spring:
   erfhj
 version:
   1
+config: 
+  info:
+    version-1
