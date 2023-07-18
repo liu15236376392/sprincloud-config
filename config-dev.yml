@@ -3,4 +3,4 @@ spring:
 version:
   12
 config: 
-  info: version-123456
+  info: version-1234567
